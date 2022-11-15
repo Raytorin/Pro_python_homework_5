@@ -1,0 +1,1 @@
+Дата вызова: 2022-11-16 01:57:17; Название: FlatIterator; Аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) и {}; Результат: <__main__.FlatIterator object at 0x7f25ffc5fc70>
